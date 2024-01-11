@@ -1,6 +1,5 @@
 # BAE305-SP24-Lab1
 BAE 305 laboratory 1
-# BAE305-SP24-Lab1
 
 # Lab 1. Knowing your instruments
 Anastasia Myers, Rebecca Ann Stacy, Lauren Shackleford
@@ -55,11 +54,8 @@ The goal of this lab was to familiarize students with the equipment we will be c
 |3|22Ω|21.9Ω|yes|
 |4|3300000Ω|3378000Ω|yes|
 
-**Part 2**
-|Capacitance|Expected Capacitance|Actual Capacitance|Within Tolerence?|
-|:---:|:---:|:---:|:---:|
-
 # Discussion
 **Discussion Question 1** - Did the power source and measured voltage agree?
+The instruments do not agree with each other, they display different voltage 		measurements. The measurements taken from the outputs that only put out 3.3V, 5V, and 	12V experience a larger voltage difference. The difference in ideal voltage compared to 	actual voltage may be because of unmeasured internal resistance or errors within the 	power supply. 
 
 **Discussion Question 2** - Do the methods for measuring amplitude and frequency agree?
