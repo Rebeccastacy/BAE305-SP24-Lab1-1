@@ -64,3 +64,6 @@ The instruments do not agree with each other, they display different voltage mea
 The DMM measurement differs from the other methods, as the DMM measures true RMS (root mean squared) which equals the peak voltage divided by the square root of 2 while the other methods measure only the peak voltage.  
 
 Reducing the amplitude of the function generator causes the measured voltage to be reduced. Decreasing the number of hertz that the function generator is outputting causes the period of the output wave to increase. The Oscope and DMM respond. Each of the devices has its limit that will eventually be reached.
+
+# Conclusion
+In this lab, I relearned how to use common tools in lab. The other main takeway from this lab for me was the limitations of the tools that we are working with. This will be important throughout the duration of the semester to ensure accuracy of data taken. 
