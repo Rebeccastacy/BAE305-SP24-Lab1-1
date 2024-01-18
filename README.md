@@ -21,14 +21,14 @@ The goal of this lab was to familiarize students with the equipment we will be c
 1. Determine and record the ideal resistance of the resistors given
 2. Using the ideal resistance find the tolerance
 3. Measure and record the actual resistance 
-4. Check to see if actual resistances fall within the found tolerence
+4. Check to see if actual resistances fall within the found tolerance
 5. Repeat for each resistor
 
 **Part 2** - Comparison of ideal vs. actual capacitance using DMM
 1. Determine and record the ideal capacitance of the capacitors given
 2. Using the ideal capacitance find the tolerance
 3. Measure and record the actual capacitance 
-4. Check to see if actual capacitances fall within the found tolerence
+4. Check to see if actual capacitances fall within the found tolerance
 5. Repeat for each capacitor
 
 **Part 3** - Comparison of power source ideal voltage vs. actual voltage
@@ -47,7 +47,7 @@ The goal of this lab was to familiarize students with the equipment we will be c
 
 # Test Results
 **Part 1**
-|Resistor|Expected Resistance|Actual Resistance|Within Tolerence?|
+|Resistor|Expected Resistance|Actual Resistance|Within Tolerance?|
 |:---:|:---:|:---:|:---:|
 |1|20000Ω|1977Ω|yes|
 |2|10000Ω|995Ω|yes|
